@@ -19,7 +19,6 @@ public class BookRepositoryImpl implements BookRepository {
 
     @Override
     public List<Book> findAll() {
-
-        return new ArrayList<>(books);
+                    return new ArrayList<>(books);
     }
 }
