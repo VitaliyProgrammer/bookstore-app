@@ -1,8 +1,8 @@
 package com.example.bookstore;
 
-import org.testng.annotations.Test;
+import org.junit.jupiter.api.Test;
 
-import static org.aspectj.bridge.MessageUtil.fail;
+import static org.junit.jupiter.api.Assertions.fail;
 
 public class FailTest {
     @Test
