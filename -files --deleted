@@ -1,0 +1,22 @@
+* [33m25be449[m[33m ([m[1;36mHEAD -> [m[1;32mfix-full-implementation-v2[m[33m, [m[1;31morigin/fix-full-implementation-v2[m[33m)[m Done full implementation of HW
+* [33m9531543[m Fixed full-implementations: BookRepositoryImpl + BookServiceImpl + Checkstyle
+* [33me0b9ed6[m Fixed full-implementations: BookRepositoryImpl + BookServiceImpl + Checkstyle
+[31m|[m * [33m2220714[m[33m ([m[1;31morigin/test-ci-fail-3[m[33m, [m[1;31morigin/new-fix-full-implementation[m[33m, [m[1;31morigin/fix-full-implementation[m[33m)[m Push request for test-ci-fail-3
+[31m|[m * [33m53d547a[m Build for test-ci-fail-3
+[31m|[m * [33m64ffe7c[m Checking work to fail build for test-ci-fail-3
+[31m|[m * [33mfd09763[m Add failing tests for merge pull request protection
+[31m|[m * [33m09dc10a[m Add failing tests for merge pull request protection
+[31m|[m * [33ma7e5d61[m Add dublicat dependency h2 for CI branch protection
+[31m|[m * [33m12bbb8b[m Add failing test for CI branch protection
+[31m|[m[31m/[m  
+[31m|[m * [33mfbbe7b7[m[33m ([m[1;31morigin/test-ci-fail-2[m[33m)[m Add failing test for CI branch protection
+[31m|[m * [33meff032f[m[33m ([m[1;31morigin/test-ci-fail[m[33m)[m Add failing test JUnit5 for CI-test-fail
+[31m|[m * [33m1f1787b[m Add failing test for CI-test-fail
+[31m|[m * [33m021893d[m Add failing test for CI-test-fail
+[31m|[m * [33mff48f39[m Fixed project for CI-test-fail
+[31m|[m * [33m3df4c7d[m Break code to test CI protection
+[31m|[m[31m/[m  
+* [33m95b1e6d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/homework-bookstore-project[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m, [m[1;32mhomework-bookstore-project[m[33m)[m Add README with build status badge
+* [33m8f323e8[m Fixed bookstore-app
+* [33m7b3627b[m Add to GitHub Actios CI workflow
+* [33me495f38[m Initial commit
